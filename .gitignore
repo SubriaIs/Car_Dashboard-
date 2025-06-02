@@ -1,0 +1,27 @@
+# Qt build system
+*.user
+*.pro.user*
+*.qmake.stash
+*.autosave
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+Makefile*
+moc_*
+ui_*
+qrc_*
+build-*/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+
+# Qt Creator folders
+.idea/
+.vscode/
